@@ -56,3 +56,4 @@ Sistema de análisis de ritmo de carrera para las sesiones de práctica de Bathu
 
 **Fecha de generación**: Enero 2026  
 **iRacing México - Bathurst 12 Hours Practice**
+
